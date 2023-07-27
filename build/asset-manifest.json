@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f5ea71e3.css",
+    "main.js": "/static/js/main.289e0ee5.js",
+    "static/js/872.9102b29a.chunk.js": "/static/js/872.9102b29a.chunk.js",
+    "static/js/227.3dd6b200.chunk.js": "/static/js/227.3dd6b200.chunk.js",
+    "static/js/526.6d641fc1.chunk.js": "/static/js/526.6d641fc1.chunk.js",
+    "static/js/232.335b92f0.chunk.js": "/static/js/232.335b92f0.chunk.js",
+    "static/js/237.4ad92e49.chunk.js": "/static/js/237.4ad92e49.chunk.js",
+    "static/media/avatar.svg": "/static/media/avatar.add0966d1d63e70b7e86c104beeaa9f1.svg",
+    "static/media/portfolio-img2.png": "/static/media/portfolio-img2.d80e3fc7e2231cffbbd7.png",
+    "static/media/portfolio-img3.png": "/static/media/portfolio-img3.e2bf250541b961cca642.png",
+    "static/media/site-bg.jpg": "/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "static/media/portfolio-img1.png": "/static/media/portfolio-img1.65b23e5c313b18600f24.png",
+    "static/media/playa.png": "/static/media/playa.96c27581c7ae3049db09.png",
+    "static/media/mifoto.jpg": "/static/media/mifoto.2d4e478153210df5575c.jpg",
+    "static/media/milogo2.png": "/static/media/milogo2.b53835421ac6b78a8da0.png",
+    "index.html": "/index.html",
+    "main.f5ea71e3.css.map": "/static/css/main.f5ea71e3.css.map",
+    "main.289e0ee5.js.map": "/static/js/main.289e0ee5.js.map",
+    "872.9102b29a.chunk.js.map": "/static/js/872.9102b29a.chunk.js.map",
+    "227.3dd6b200.chunk.js.map": "/static/js/227.3dd6b200.chunk.js.map",
+    "526.6d641fc1.chunk.js.map": "/static/js/526.6d641fc1.chunk.js.map",
+    "232.335b92f0.chunk.js.map": "/static/js/232.335b92f0.chunk.js.map",
+    "237.4ad92e49.chunk.js.map": "/static/js/237.4ad92e49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5ea71e3.css",
+    "static/js/main.289e0ee5.js"
+  ]
+}
